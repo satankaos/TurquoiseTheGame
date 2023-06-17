@@ -1,4 +1,4 @@
-# TurqoiseTheGame: participantes del proyecto
+# TurquoiseTheGame: participantes del proyecto
 * ArissRo
 * marodriguezd
 * satankaos
